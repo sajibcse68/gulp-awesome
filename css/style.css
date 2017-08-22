@@ -1,8 +1,5 @@
 body {
     background: #000;
+    margin: 100px;
     /*padding: 5px;*/
-}
-
-p {
-    color: red;
 }

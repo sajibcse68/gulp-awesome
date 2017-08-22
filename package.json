@@ -10,13 +10,21 @@
     "gulp",
     "node"
   ],
-  "author": "sajib, anik, naib",
+  "author": "sajib",
   "license": "ISC",
   "devDependencies": {
     "del": "^3.0.0",
+    "eslint": "^4.5.0",
     "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
     "gulp-minify-css": "^1.2.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rev": "^8.0.0",
     "gulp-uglify": "^3.0.0",
     "run-sequence": "^2.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7"
   }
 }
